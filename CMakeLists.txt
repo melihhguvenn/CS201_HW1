@@ -3,4 +3,4 @@ project(CS201_HW1)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CS201_HW1 main.cpp BankingSystem.cpp BankingSystem.h Branch.cpp Branch.h Customer.cpp Customer.h)
+add_executable(CS201_HW1 main.cpp BankingSystem.cpp BankingSystem.h Branch.cpp Branch.h Customer.cpp Customer.h Account.cpp Account.h)

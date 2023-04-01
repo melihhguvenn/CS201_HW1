@@ -12,6 +12,7 @@ using namespace std;
 class Customer {
 public:
     Customer();
+    ~Customer();
     Customer(int customerId, string customerName);
     int getId();
     string getName();
